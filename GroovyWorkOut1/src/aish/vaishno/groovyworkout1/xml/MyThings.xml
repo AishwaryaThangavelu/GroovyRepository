@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Things>
+
+	<Item id="1">	
+		<name>Bike</name>
+		<company>Access125</company>
+	</Item>
+	
+	<Item id="2">
+		<name>Laptop</name>
+		<company>Lenovo</company>
+	</Item>
+	
+	<Item id="3">
+		<name>Pen</name>
+		<company>Luxor</company>
+	</Item>
+</Things>
