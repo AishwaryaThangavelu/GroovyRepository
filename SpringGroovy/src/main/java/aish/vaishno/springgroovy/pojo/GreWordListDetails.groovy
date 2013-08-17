@@ -21,10 +21,10 @@ class GreWordListDetails {
 
     @Id
     @Column(name="gre_id")
-    def Integer greId;
+    Integer greId;
     
     @Column(name="gre_word")
-    def String greWord;
+    String greWord;
     
     @Column(name="gre_word_meaning")
     String greWordMeaning;
@@ -35,4 +35,3 @@ class GreWordListDetails {
     }
     
 }
-
