@@ -45,7 +45,7 @@ public class FileCaller {
 	}
 	
 	public static void main(String[] args) {
-		FileCaller.appendString();
+		//FileCaller.appendString();
 		List result=FileCaller.getFileContent();
 		for (Object object : result) {
 			System.out.println(object);
